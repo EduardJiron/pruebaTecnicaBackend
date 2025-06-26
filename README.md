@@ -57,22 +57,10 @@ Aplicación de intereses
 
 Consulta de saldo e historial de transacciones
 
-Estructura del proyecto
-
-BancoAPI/
-├── Controllers/
-├── Models/
-├── Services/
-├── Data/
-├── Program.cs
-BancoAPI.Tests/
-├── UnitTest1.cs
-
 Notas adicionales
 
 El archivo .db de SQLite se genera automáticamente al ejecutar la API.
 
 El proyecto está configurado con Inyección de Dependencias usando AddScoped en Program.cs.
 
-Swagger solo está habilitado en entorno de desarrollo.
 
