@@ -33,14 +33,10 @@ dotnet restore
 
 Ejecuta la API:
 
-
 dotnet run --project BancoAPI
 
-Accede a la documentación Swagger desde tu navegador:
-
-
-https://localhost:{puerto}/swagger
 Ejecutar pruebas unitarias
+
 Ve al proyecto de pruebas:
 
 
